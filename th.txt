@@ -12,7 +12,9 @@ ex : python , javascript , html
 
 1. statically 
     - when u take variable u need to take datatype
+    int a = 10
 2. dynamically
+    a = 10
   - 
   
   javaScript have no datatype 
@@ -67,3 +69,5 @@ JavaScript use?
 {
   
 }
+
+const pi = 3.14
