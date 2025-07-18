@@ -9,4 +9,7 @@
 // console.log(typeof name);
 
 
+let a = parseInt(prompt("Enter first number :"))
+
+
 
