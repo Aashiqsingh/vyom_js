@@ -1,5 +1,12 @@
 let users = ["aman","aashiq","rahul","vijay","harshil","vyom"];
 
+// let filteredUser = users.filter((user)=>{
+//     return user != "rahul"
+// })
+
+// console.log(filteredUser);
+
+
 // for(let i=0;i<arr.length;i++){
 //     console.log(arr[i].toUpperCase());
 // }
@@ -47,9 +54,9 @@ let users = ["aman","aashiq","rahul","vijay","harshil","vyom"];
     
 // })
 
-let newArr = [];
-users.forEach((user)=>{
-    newArr.push(user)
-})
+// let newArr = [];
+// users.forEach((user)=>{
+//     newArr.push(user)
+// })
 
-console.log(newArr);
+// console.log(newArr);
