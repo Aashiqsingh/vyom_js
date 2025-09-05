@@ -1,0 +1,20 @@
+DOM ---> Document Object Model
+
+DOM is a programming interface for HTML and XML documents.
+
+
+dom use ?
+- To manipulate the dom.
+
+
+identifier :
+1. id -- unique
+2. class -- multiple/duplicate 
+3. name -- multiple/duplicate
+4. tagName -- multiple/duplicate
+5. querySelector
+
+
+
+Event :
+1. onclick
